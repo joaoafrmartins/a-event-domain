@@ -1,0 +1,5 @@
+{
+  "aleph": {
+    "raml": { "hello": "world" }
+  }
+}

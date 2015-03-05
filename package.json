@@ -1,0 +1,28 @@
+{
+  "name": "a-event-domain",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "description": "A Event Domain",
+  "keywords": [
+    "a",
+    "event",
+    "domain"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-event-domain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-domain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-domain/issues"
+  }
+}
