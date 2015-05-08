@@ -24,5 +24,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-event-domain/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
